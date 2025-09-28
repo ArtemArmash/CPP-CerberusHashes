@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/hashing",
+					"jsonFile" : "directory-src.hashing-Debug-05d438b245d79d4d370c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/hashing",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/file_processor",
+					"jsonFile" : "directory-src.file_processor-Debug-49eec2374014ab40b8dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/file_processor",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/main",
+					"jsonFile" : "directory-src.main-Debug-62294f175d8325616fbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/main",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "CerberusHashes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "cerberus::@5f1512723eddbe79ddaa",
+					"jsonFile" : "target-cerberus-Debug-6f11699e171ca1ef334a.json",
+					"name" : "cerberus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "file_processor_lib::@92e7d4db56527c3fbe7d",
+					"jsonFile" : "target-file_processor_lib-Debug-14b93950c2af0536776a.json",
+					"name" : "file_processor_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hashing_lib::@afbda8f8cac9c422bb7d",
+					"jsonFile" : "target-hashing_lib-Debug-05de1eb37106975a93da.json",
+					"name" : "hashing_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ProjectC++/CerberusHashes/cerberus/out/build/x64-Debug",
+		"source" : "D:/ProjectC++/CerberusHashes/cerberus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

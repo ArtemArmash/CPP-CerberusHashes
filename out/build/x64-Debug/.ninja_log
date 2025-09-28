@@ -1,0 +1,19 @@
+# ninja log v5
+8	272	7807641137018739	src/hashing/CMakeFiles/hashing_lib.dir/sha1.cpp.obj	ab2e4800e50aa136
+14	585	7807641140167743	src/file_processor/CMakeFiles/file_processor_lib.dir/FileProcessor.cpp.obj	9b4762061247d398
+11	674	7807641141097435	src/hashing/CMakeFiles/hashing_lib.dir/sha256.cpp.obj	829b7d022307ce40
+4	698	7807641141347353	src/hashing/CMakeFiles/hashing_lib.dir/md5.cpp.obj	cbb0ab4617908631
+17	705	7807641141407330	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+698	780	7807641141727235	src/hashing/hashing_lib.lib	8d0d19f6c79dd705
+780	893	7807641142563964	src/file_processor/file_processor_lib.lib	77280fb1d01b7770
+893	1360	7807641147508291	src/main/cerberus.exe	1e236b792a24e46c
+5	632	7807642313426817	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+633	967	7807642315945844	src/main/cerberus.exe	1e236b792a24e46c
+21	671	7807647729622626	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+671	1018	7807647732313277	src/main/cerberus.exe	1e236b792a24e46c
+19	636	7807647786499044	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+637	876	7807647788117650	src/main/cerberus.exe	1e236b792a24e46c
+4	663	7807648011002095	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+663	1011	7807648013238924	src/main/cerberus.exe	1e236b792a24e46c
+4	618	7807650341498552	src/main/CMakeFiles/cerberus.dir/main.cpp.obj	bc4d39a274850e76
+618	869	7807650343116630	src/main/cerberus.exe	1e236b792a24e46c
